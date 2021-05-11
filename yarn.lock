@@ -5842,6 +5842,11 @@ react-native-color-matrix-image-filters@^5.2.10:
     concat-color-matrices "^1.0.0"
     rn-color-matrices "^4.1.0"
 
+react-native-dropdown-picker@^5.1.7:
+  version "5.1.7"
+  resolved "https://registry.yarnpkg.com/react-native-dropdown-picker/-/react-native-dropdown-picker-5.1.7.tgz#edcf607ebaed4f4b66c2acfd5d91784cac7997d3"
+  integrity sha512-a5gbJQ73hx/ROgyBZY75xO3M7f+69QU8rdR4hqaTkjPStCyMqkF5efLXGeBZg6Y7wCBEmV6qJI9duGwTSDCLrw==
+
 react-native-dynamic-search-bar@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/react-native-dynamic-search-bar/-/react-native-dynamic-search-bar-2.0.0.tgz#4b6ab3257221cbcba7f1fc9b7d51b8f2a2dd2d23"

@@ -7,7 +7,7 @@ import { Avatar, Card, Title, Paragraph, ProgressBar, Colors } from 'react-nativ
 
 import { Grayscale } from 'react-native-color-matrix-image-filters';
 
-import Icon from 'react-native-ico-material-design';
+
 
 
 
@@ -25,7 +25,7 @@ const Incubator = ()=>
         
         <View style={styles.container}>
 
-<Icon name="add-label-button" />
+
 
 
             <View style={{backgroundColor: "white"}}>
@@ -450,7 +450,7 @@ const styles = StyleSheet.create(
 
         socialMediaButtons:
         {
-            left: 10,
+            
             top: 10,
             flexDirection: "row",
             justifyContent: "space-evenly",
